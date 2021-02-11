@@ -1,4 +1,8 @@
-# Homework 4: Path Tracer Part I: Naive Integration of the Light Transport Equation
+Path Tracer Part I: Naive Integration of the Light Transport Equation - Concepts
+======================
+
+**University of Pennsylvania, CIS 561: Advanced Computer Graphics, Homework 4**
+
 
 ## BSDF, BxDF, BTDF, BRDF
 
