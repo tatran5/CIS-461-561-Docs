@@ -1,5 +1,7 @@
-# BSDF, BxDF, BTDF, BRDF
+# Homework 4: Path Tracer Part I: Naive Integration of the Light Transport Equation
 
-# Sample_f() vs f()
+## BSDF, BxDF, BTDF, BRDF
 
-# Path tracer vs ray tracer
+## Sample_f() vs f()
+
+## Path tracer vs ray tracer
